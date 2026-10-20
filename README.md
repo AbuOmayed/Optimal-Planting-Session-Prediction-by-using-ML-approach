@@ -1,7 +1,4 @@
-# 🌱 Optimal Planting Season Prediction
-
-## 📌 Project Title
-**A Data-Driven Approach to Forecasting Crop Transplantation Periods in Bangladesh Using Machine Learning Model**
+## A Data-Driven Approach to Forecasting Crop Transplantation Periods in Bangladesh Using Machine Learning
 
 ## 📖 Abstract
 Agricultural production in Bangladesh is extremely sensitive to climate variability. Climate change poses one of the greatest challenges to determining optimal planting seasons in the country. With increasing climatic uncertainties, evidence-based planting decisions are essential to sustain crop yields and ensure food security. Traditional crop calendars are becoming less reliable as shifting environmental conditions alter seasonal patterns.
